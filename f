@@ -5,7 +5,7 @@
 }
 
 .standardSidebarView-3F1I7i {
-  background-image: url(https://i.imgur.com/dl5utiy.jpg);
+  background-image: url(https://i.imgur.com/Ew77Iyz.jpeg);
   background-size: cover;
 }
 
